@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Project_MVC_Student_Portal.Web/1.0.0": {
+        "runtime": {
+          "Project_MVC_Student_Portal.Web.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Project_MVC_Student_Portal.Web/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
